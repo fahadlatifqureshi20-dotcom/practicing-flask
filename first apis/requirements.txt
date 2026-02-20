@@ -1,0 +1,2 @@
+flask
+python-dotenvpip # to activate debug mode on 
